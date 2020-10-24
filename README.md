@@ -2,7 +2,6 @@
 Astra Vespasian
 <br>Lua & JS Enthusiast
 <br>Aspiring Data Analyst
-
 <br><br>💻 Hands-on experiences in Lua, Java, JavaScript, HTML, PHP, MySQL, Python, C++, R, VBA, and more soon to be discovered! 
 <br>
 🥰 Looking to develop, learn, entertain and be entertained. 

@@ -2,12 +2,11 @@
 Generalist Freelance Developer 
 <br>Profess in Lua, Java, JavaScript, HTML, PHP, MySQL, Python, C++, R, VBA, and more soon to be discovered! 
 <br>Aspiring Data Analyst
-<br>
-<br>
+<br><br>
 Freelance Developer from Malaysia specialized in programming, animating, 3D modelling and creative processes. Currently a fifth-form secondary school student taking Computer Science as an elective.
-<br>
+<br><br>
 Very passionate when it comes to programming. Might even be a workaholic myself. Been programming since 2015, when I was still in the first year of my secondary school.
-<br>
+<br><br>
 Let’s connect. You can find me on Discord: astra#1365 or email: astravespasian@gmail.com
 
 <!--

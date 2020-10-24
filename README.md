@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello there! 👋
+# Generalist Freelance Developer. <br>Profess in Lua, Java, JavaScript, HTML, PHP, MySQL, Python, C++, R and VBA. <br>Aspiring Data Analyst.
 
 <!--
 **astrajs/astrajs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

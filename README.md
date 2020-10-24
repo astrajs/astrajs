@@ -1,7 +1,10 @@
 # Hello there! 👋
-Generalist Freelance Developer 
-<br>Profess in Lua, Java, JavaScript, HTML, PHP, MySQL, Python, C++, R, VBA, and more soon to be discovered! 
+Astra Vespasian
+<br>Lua & JS Enthusiast
+<br>Hands-on experiences in Lua, Java, JavaScript, HTML, PHP, MySQL, Python, C++, R, VBA, and more soon to be discovered! 
 <br>Aspiring Data Analyst
+<br>
+Looking to develop, learn, entertain and be entertained.
 <br><br>
 Freelance Developer from Malaysia specialized in programming, animating, 3D modelling and creative processes. Currently a fifth-form secondary school student taking Computer Science as an elective.
 <br><br>

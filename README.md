@@ -6,7 +6,7 @@ Astra Vespasian
 <br>
 🥰 Looking to develop, learn, entertain and be entertained. 
 <br><br>
-Freelance Developer from Malaysia specialized in programming, animating, 3D modelling and creative processes. Currently a fifth-form secondary school student taking Computer Science as an elective.
+I am a Freelance Developer from Malaysia specialized in programming, animating, 3D modelling and creative processes. Currently a fifth-form secondary school student taking Computer Science as an elective.
 <br><br>
 Very passionate when it comes to programming. Might even be a workaholic myself. Been programming since 2015, when I was still in the first year of my secondary school.
 <br><br>

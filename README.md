@@ -8,7 +8,7 @@ Astra Vespasian
 <br><br>
 I am a Freelance Developer from Malaysia specialized in programming, animating, 3D modelling and creative processes. Currently a fifth-form secondary school student taking Computer Science as an elective.
 <br><br>
-Very passionate when it comes to programming. Might even be a workaholic myself. Been programming since 2015, when I was still in the first year of my secondary school.
+Very passionate when it comes to programming. Been programming since 2015, when I was still in the first year of my secondary school.
 <br><br>
 🔗 Let’s connect. You can find me on Discord: astra#1365 or email: astravespasian@gmail.com
 

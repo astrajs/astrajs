@@ -2,13 +2,12 @@
 Astra Vespasian
 <br>Lua & JS Enthusiast
 <br>Aspiring Data Analyst
-<br><br>💻 Hands-on experiences in Lua, Java, JavaScript, HTML, PHP, MySQL, Python, C++, R, VBA, and more soon to be discovered! 
+<br><br>
+A Roblox Metaverse Experience Developer, Programmer, Animator, UI/UX and Game Design Consultant who works as an independent contractor to genre-leading games, studios and companies.
 <br>
-🥰 Looking to develop, learn, entertain and be entertained. 
-<br><br>
-I am a Freelance Developer from Malaysia specialized in programming, animating, 3D modelling and creative processes. Currently a fifth-form secondary school student taking Computer Science as an elective.
-<br><br>
-Very passionate when it comes to programming. Been programming since 2015, when I was still in the first year of my secondary school.
+An yet-experienced business entrepreneur looking to venture into the business of game developments and data analytics.
+<br>
+I specialize in gameplay programming, optimised game design, visual animation programming and also project management. With over half a decade of experience behind me, I have grasped a handful of professional softwares like the Unity Engine, Roblox Studio, Blender, Photoshop, FL Studio 20, and with a belt of hands-on experiences in programming languages including Lua, Java, JavaScript, HTML, PHP, MySQL, Python, C++, R, VBA, and more soon to be discovered! I have contributed to over 250 million players' experiences on leading Roblox Metaverse Games such as ERLC Emergency Response Liberty County, Gym Tycoon, Blood Samurai 2, Weaponcraft, and Fighting Fiesta.
 <br><br>
 🔗 Let’s connect. You can find me on Discord: astra#1365 or email: astravespasian@gmail.com
 

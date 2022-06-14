@@ -1,7 +1,7 @@
 # Hello there! 👋
 Wan Saifulamri (also known as Astra)
 <br>Lua & JS Enthusiast
-<br>also an Data Addict
+<br>Data Addict
 <br><br>
 💬 A Roblox Metaverse Experience Developer, Programmer, Animator, UI/UX and Game Design Consultant who works as an independent contractor to genre-leading games, studios and companies.
 <br><br>

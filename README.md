@@ -9,6 +9,8 @@ Wan Saifulamri (also known as Astra)
 <br><br>
 🔭 Independent game developer on the Roblox user-generated content platform. In this role, I have contributed to the development of some of the highest-grossing experiences in the metaverse, demonstrating skills in programming, animation, experience design, and optimization consulting. I have served in capacities including a technical consultant, project director, general programmer, and creative designer for games with up to 500 million plays.
 <br><br>
+😱 I direct a bunch of amazing people over at Objekk, check us out! https://objekk.com
+<br><br>
 🔗 Let’s connect. You can find me on<br>
 <!--LinkedIn: https://www.linkedin.com/in/saifamri/<br>-->
 Discord: astra#1365<br>

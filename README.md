@@ -1,4 +1,6 @@
-# Hello there! 👋
+# 👋
+
+<!--# Hello there! 👋
 Wan Saifulamri (also known as Astra)
 <br>Lua & JS Enthusiast
 <br>Data Addict
@@ -12,9 +14,10 @@ Wan Saifulamri (also known as Astra)
 😱 I direct a bunch of amazing people over at Objekk, check us out! https://objekk.com
 <br><br>
 🔗 Let’s connect. You can find me on<br>
-<!--LinkedIn: https://www.linkedin.com/in/saifamri/<br>-->
+<!--LinkedIn: https://www.linkedin.com/in/saifamri/<br>
 Discord: astra#1365<br>
 Email: wan@objekk.com
+-->
 
 <!--
 **astrajs/astrajs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
